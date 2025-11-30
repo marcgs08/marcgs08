@@ -13,7 +13,9 @@ Però vull desenvolupar i explicar la meva experiència fent dos dels meus proje
 El projecte de cartes FIFA es va basar en un codi html amb el qual podíem fer que una foto ens portarà cap a una informació que era la descripció de les cartes que jo vaig fer
 Les cartes que jo vaig fer es van basar en els alumnes de classe, persones com Cristiano Ronaldo i Messi, o bé personatges com el Pokémon Squirtle.
 https://marcgs08.github.io/albert-CARTAS/https://marcgs08.github.io/albert-CARTAS/
-L´altre projecte que hem va encantar fer va ser:
+
+L´altre projecte del què parlaré serà:
+
 - WILDBET CASINO:
 Aquest projecte va ser un treball en grup, que vaig fer amb els meus grans amics Alejandro, Dani i Cristian.
 El projecte tractava d'un casino, amb temàtica salvatge, hi podies afegir i treure diners, jugar a la ruleta, poker, menu interactiu, etc.

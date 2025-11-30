@@ -6,6 +6,7 @@ Algunes de les asigantures que estic cursant són:
 - IPO
 - Sistemes operatius 
 - ...
+
 En aquestes assignatures, tracto temes com màquines virtuals, html, css,...
 Però vull desenvolupar i explicar la meva experiència fent dos dels meus projectes favorits de html.
 - CARTAS FIFA

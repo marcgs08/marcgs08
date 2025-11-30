@@ -1,5 +1,6 @@
 ## Hola!!!! 👋
-Soc Marc un estudiant de SMX (Sistemas Microinformàtics i Xarxes) a FP Llefia 
+Soc Marc un estudiant de SMX (Sistemas Microinformàtics i Xarxes) a FP Llefia.
+
 Algunes de les asigantures que estic cursant són:
 - Serveis de xarxa 
 - IPO

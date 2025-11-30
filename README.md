@@ -1,5 +1,5 @@
 ## Hola!!!! 👋
-Soc un estudiant de SMX (Sistemas Microinformàtics i Xarxes) a FP Llefia 
+Soc Marc un estudiant de SMX (Sistemas Microinformàtics i Xarxes) a FP Llefia 
 Algunes de les asigantures que estic cursant són:
 - Serveis de xarxa 
 - IPO
@@ -10,7 +10,7 @@ Però vull desenvolupar i explicar la meva experiència fent dos dels meus proje
 - CARTAS FIFA
 El projecte de cartes FIFA es va basar en un codi html amb el qual podíem fer que una foto ens portarà cap a una informació que era la descripció de les cartes que jo vaig fer
 Les cartes que jo vaig fer es van basar en els alumnes de classe, persones com Cristiano Ronaldo i Messi, o bé personatges com el Pokémon Squirtle.
-link (https://marcgs08.github.io/albert-CARTAS/https://marcgs08.github.io/albert-CARTAS/)
+https://marcgs08.github.io/albert-CARTAS/https://marcgs08.github.io/albert-CARTAS/
 L´altre projecte que hem va encantar fer va ser:
 - WILDBET CASINO
 Aquest projecte va ser un treball en grup, que vaig fer amb els meus grans amics Alejandro, Dani i Cristian.
